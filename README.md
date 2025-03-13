@@ -1,6 +1,6 @@
 # 🚀 Praticando POO em JavaScript
 
-Bem-vindo ao repositório **Praticando POO em JavaScript**! Aqui eu documentarei minha evolução na Programação Orientada a Objetos (POO) em JavaScript, desenvolvendo projetos práticos para consolidar o aprendizado. 🎯
+Bem-vindo ao repositório **Praticando POO em JavaScript**! Aqui eu documentarei minha evolução na Programação Orientada a Objetos (POO) em JavaScript, desenvolvendo projetos práticos para consolidar o aprendizado da minha **pós-graduação em Desenvolvimento Web Fullstack da PUCRS** 🎯
 
 ---
 
